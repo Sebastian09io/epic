@@ -1,0 +1,266 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    font-family: OpenSans,sans-serif;;
+}
+
+.barra{
+    background-color:rgb(15, 15, 15);
+    height:10%;
+    width:100%;
+    top:0;
+    left:0;
+    position: absolute;
+}
+
+.botones{
+position: absolute;
+width:60%;
+height:5%;
+top:3.5%;
+left:10%;
+}
+.palabra{
+    color:rgba(255, 255, 255, 0.762);
+    outline: none;
+    text-decoration:none;
+    font-size:88%;
+    margin-right:25px;
+}
+
+.logo{
+    height:32px;
+    width:28px ;
+    padding:20px 29px;
+}
+
+.flecha{
+    height:15px;
+    width:15px ;
+    position: absolute;
+    top:40%;
+    left:5%;
+}
+.linea{
+    position: absolute;
+    height:55%;
+    width:2px;
+    background-color:rgba(144, 144, 144, 0.433);
+    top:20%;
+    left:7.5%;
+}
+
+.mundo{
+    height:10%;
+    width:15%;
+    top:0;
+    left:85%;
+    position: absolute; 
+}
+
+.idioma{
+    height:20px;
+    width:20px;
+    position: absolute;
+    padding:28px 23px;
+}
+.sesion{
+    height:25px;
+    width:25px;
+    position: absolute;
+    padding:25px 60px;
+}
+.boton{
+    background:#26bbff;
+    padding: 6px 15px;
+    border-radius: 10px;
+    color: rgb(31, 31, 31);
+    border:none;
+    font-size:100%;
+    position: absolute;
+    top:29%;
+    left:45%;
+}
+
+.juegos{
+    height:110vh;
+    width:100%;
+}
+.engine{
+    height:110vh;
+    width:510px;
+}
+.fornite{
+    height:100vh;
+    width:516px;
+    position: absolute;
+    top: 10%;
+}
+.rocket{
+    height:100vh;
+    width:510px;
+    position:absolute;
+    top:10%;
+    left:66.8%;
+}
+
+.unreal{
+    position:absolute;
+    font-size:300%;
+    color:white;
+    top:60%;
+    left:6%;
+}
+.deriva{
+    position:absolute;
+    font-size:300%;
+    color:white;
+    top:60%;
+    left:40%;
+}
+.league{
+    position:absolute;
+    font-size:300%;
+    color:white;
+    top:60%;
+    left:74%;
+}
+.final{
+    height:100vh;
+    width:100%;
+    background:rgb(42, 42, 42);
+}
+.redes{
+    width:140px;
+    position:absolute;
+    top:115%;
+    left:6%;
+}
+.volver{
+    color:rgba(255, 255, 255, 0.659);
+    font-size:90%;
+    font-weight:100;
+    position: absolute;
+    top:115%;
+    left:83%;
+}
+
+.lista1{
+    position: absolute;
+    left:4%;
+    top:124%;
+    font-size:13px;
+    letter-spacing: 3px;
+    color: rgba(255, 255, 255, 0.696);
+}
+.lista2{
+    position: absolute;
+    left:20%;
+    top:126%;
+    font-size:13px;
+    letter-spacing: 3px;
+    color: rgba(255, 255, 255, 0.696);
+}
+.lista3{
+    position: absolute;
+    left:37%;
+    top:127%;
+    font-size:13px;
+    letter-spacing: 3px;
+    color: rgba(255, 255, 255, 0.696);
+}
+.lista4{
+    position: absolute;
+    left:4%;
+    top:147%;
+    font-size:13px;
+    letter-spacing: 3px;
+    color: rgba(255, 255, 255, 0.696);
+}
+
+.lista5{
+    position: absolute;
+    left:14%;
+    top:151%;
+    font-size:13px;
+    letter-spacing: 3px;
+    color: rgba(255, 255, 255, 0.696);
+}
+li{
+    margin-top:6%;
+    font-size:14px;
+    list-style-type: none;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.696);
+    letter-spacing:0px;
+}
+.linea2{
+    position: absolute;
+    height:2px;
+    width:87%;
+    background-color:rgba(144, 144, 144, 0.208);
+    top:180%;
+    left:6%;
+}
+.copy{
+    font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  color: rgb(204, 204, 204);
+  position: absolute;
+  top:185%;
+  left:6%;
+}
+.titulos{
+    position: absolute;
+    top:197%;
+    left:6%;
+    width:60%;
+    height: 5%;
+}
+.titulo1{
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+    color: rgb(204, 204, 204);
+    margin-right:25px;
+
+}
+.titulo2{
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+    color: rgb(204, 204, 204);
+    margin-right:25px;
+
+}
+.titulo3{
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+    color: rgb(204, 204, 204);
+    margin-right:25px;
+
+}
+.titulo4{
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+    color: rgb(204, 204, 204);
+}
+.logoo{
+    position: absolute;
+    top:195%;
+    left:86%;
+    height: 60px;
+}
+.flechita{
+    position: absolute;
+    top:116.5%;
+    left:81.5%;
+    height: 14px;
+}
